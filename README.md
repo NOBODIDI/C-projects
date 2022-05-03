@@ -20,7 +20,4 @@ The program prompts the user to input the number of rows that the triangle shoul
 
 The program prompts the user to input the number of rows that the triangle should have and outputs a Pascal triangle with the appropriate number of rows to the command line.
 
-## Reversi/Othello Game
 
-The program prompts the user to input a number n and displays an n * n board of the Reversi/Othello game. The player can then play a game against the computer, and the computer is programmed to play against the player. Both player and computer place tiles on the board until the board is filled or there are no more moves. \
-The player with the largest amount of tiles at this point wins the game.
